@@ -1,0 +1,35 @@
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.deps.json
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.runtimeconfig.json
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.runtimeconfig.dev.json
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\ref\BackEndTest.Infrastructure.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.pdb
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Domain.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Domain.pdb
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.AssemblyInfo.cs
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\ref\BackEndTest.Infrastructure.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.pdb
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.genruntimeconfig.cache
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.deps.json
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.runtimeconfig.json
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.runtimeconfig.dev.json
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\ref\BackEndTest.Infrastructure.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Infrastructure.pdb
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Domain.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\bin\Debug\net5.0\BackEndTest.Domain.pdb
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.AssemblyInfo.cs
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.csproj.CopyComplete
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\ref\BackEndTest.Infrastructure.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.pdb
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Infrastructure\obj\Debug\net5.0\BackEndTest.Infrastructure.genruntimeconfig.cache

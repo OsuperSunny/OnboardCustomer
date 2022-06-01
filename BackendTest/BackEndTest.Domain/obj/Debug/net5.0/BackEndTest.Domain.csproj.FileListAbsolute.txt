@@ -1,0 +1,24 @@
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\bin\Debug\net5.0\BackEndTest.Domain.deps.json
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\bin\Debug\net5.0\BackEndTest.Domain.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\bin\Debug\net5.0\ref\BackEndTest.Domain.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\bin\Debug\net5.0\BackEndTest.Domain.pdb
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.csproj.AssemblyReference.cache
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.AssemblyInfoInputs.cache
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.AssemblyInfo.cs
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\ref\BackEndTest.Domain.dll
+C:\Users\PUPPY\source\repos\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.pdb
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\bin\Debug\net5.0\BackEndTest.Domain.deps.json
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\bin\Debug\net5.0\BackEndTest.Domain.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\bin\Debug\net5.0\ref\BackEndTest.Domain.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\bin\Debug\net5.0\BackEndTest.Domain.pdb
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.AssemblyInfoInputs.cache
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.AssemblyInfo.cs
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\ref\BackEndTest.Domain.dll
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.pdb
+C:\Users\sundayoladiran\Downloads\.NET Core\BackendTest\BackEndTest.Domain\obj\Debug\net5.0\BackEndTest.Domain.csproj.AssemblyReference.cache

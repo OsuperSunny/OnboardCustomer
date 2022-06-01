@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7IkbYBJO1oqN/AqCTes8ECwg54fAyCho/b1Qhr9Rgsrac48zMIagyHUU2sfj+3yJl10/ykoL3XiV3ZHOQC/tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sundayoladiran\\Downloads\\.NET Core\\BackendTest\\BackEndTest.Domain\\BackEndTest.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sundayoladiran\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
